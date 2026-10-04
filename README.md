@@ -33,7 +33,7 @@
 
 <h3><img src="metrics.svg" width="50%" align="left" alt="GitHub metrics">✨ Other stuff</h3>
 <p>Some things I do for fun</p>
-<p><a href="https://markbarbuto.com/#fun"><img src="assets/905gunners-spin.gif" width="40" height="40" align="center" alt="905Gunners"></a>  <a href="https://markbarbuto.com/#fun"><b>905Gunners</b></a> (charity tournaments)</p>
+<p><a href="https://markbarbuto.com/#fun"><img src="assets/905gunners-spin.gif" width="40" height="40" align="center" alt="905Gunners"></a>  <a href="https://markbarbuto.com/#fun"><b>905Gunners</b></a> (charity soccer tournaments)</p>
 <p><a href="https://markbarbuto.com/#fun"><img src="assets/travel.gif" width="40" height="40" align="center" alt="Travel"></a>  <a href="https://markbarbuto.com/#fun"><b>Travel</b></a></p>
 
 <br clear="left">
