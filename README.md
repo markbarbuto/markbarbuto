@@ -1,6 +1,6 @@
 <p>
   <img align="left" src="assets/hello.gif" width="180" height="180" alt="Hello">
-  <img align="left" src="assets/intro-spacer.png" width="20" height="180" alt="">
+  <img align="left" src="assets/intro-spacer.png" width="4" height="180" alt="">
   <strong>Mark Barbuto</strong><br>
   <p>
     <a href="https://markbarbuto.com"><img src="https://img.shields.io/badge/markbarbuto.com-C2410C?style=flat&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPGcgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjZmZmIiBzdHJva2Utd2lkdGg9IjIiPjxjaXJjbGUgY3g9IjEyIiBjeT0iMTIiIHI9IjEwIi8%2BPGVsbGlwc2UgY3g9IjEyIiBjeT0iMTIiIHJ4PSI0LjUiIHJ5PSIxMCIvPjxwYXRoIGQ9Ik0yIDEyaDIwTTQgNi41aDE2TTQgMTcuNWgxNiIvPjwvZz48L3N2Zz4%3D&logoColor=white" alt="Website"></a>
