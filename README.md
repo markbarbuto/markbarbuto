@@ -1,4 +1,4 @@
-<h3><img src="https://media.giphy.com/media/2Hsbe8qoiK0PwyUlP4/giphy.gif" height="180" align="left" alt="Hello">Mark Barbuto</h3>
+<h3><img src="assets/hello.gif" height="180" align="left" style="margin-right: 20px;" alt="Hello">Mark Barbuto</h3>
 <p>I'm a full-stack developer in Toronto making an impact by building web and mobile apps. Here's what I work with most:</p>
 <p>
   <img src="https://img.shields.io/badge/C%23-68217A?style=flat&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyBmaWxsPSIjZmZmIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMjggMTI4Ij48cGF0aCBkPSJNMTE3LjUgMzMuNWwuMy0uMmMtLjYtMS4xLTEuNS0yLjEtMi40LTIuNkw2Ny4xIDIuOWMtLjgtLjUtMS45LS43LTMuMS0uNy0xLjIgMC0yLjMuMy0zLjEuN2wtNDggMjcuOWMtMS43IDEtMi45IDMuNS0yLjkgNS40djU1LjdjMCAxLjEuMiAyLjMuOSAzLjRsLS4yLjFjLjUuOCAxLjIgMS41IDEuOSAxLjlsNDguMiAyNy45Yy44LjUgMS45LjcgMy4xLjcgMS4yIDAgMi4zLS4zIDMuMS0uN2w0OC0yNy45YzEuNy0xIDIuOS0zLjUgMi45LTUuNFYzNi4xYy4xLS44IDAtMS43LS40LTIuNnptLTUzLjUgNzBjLTIxLjggMC0zOS41LTE3LjctMzkuNS0zOS41UzQyLjIgMjQuNSA2NCAyNC41YzE0LjcgMCAyNy41IDguMSAzNC4zIDIwbC0xMyA3LjVDODEuMSA0NC41IDczLjEgMzkuNSA2NCAzOS41Yy0xMy41IDAtMjQuNSAxMS0yNC41IDI0LjVzMTEgMjQuNSAyNC41IDI0LjVjOS4xIDAgMTcuMS01IDIxLjMtMTIuNGwxMi45IDcuNmMtNi44IDExLjgtMTkuNiAxOS44LTM0LjIgMTkuOHpNMTE1IDYyaC0zLjJsLS45IDRoNC4xdjVoLTVsLTEuMiA2aC00LjlsMS4yLTZoLTMuOGwtMS4yIDZoLTQuOGwxLjItNkg5NHYtNWgzLjVsLjktNEg5NHYtNWg1LjNsMS4yLTZoNC45bC0xLjIgNmgzLjhsMS4yLTZoNC44bC0xLjIgNmgyLjJ2NXptLTEyLjcgNGgzLjhsLjktNGgtMy44eiIvPjwvc3ZnPg%3D%3D&logoColor=white" alt="C#">
@@ -14,7 +14,7 @@
 
 <br clear="left">
 
-<h3><img src="https://media1.tenor.com/m/cGR8wVx9ZfIAAAAC/coder.gif" width="50%" align="right" alt="Coding">🚀 Projects</h3>
+<h3><img src="assets/coder.gif" width="50%" align="right" alt="Coding">🚀 Projects</h3>
 <p>Some of my recent projects</p>
 <p><a href="https://markbarbuto.com"><img src="assets/vitae.png" width="40" height="40" align="center" alt="Vitae AI"></a>  <a href="https://markbarbuto.com"><b>Vitae AI</b></a></p>
 <p><a href="https://markbarbuto.com/#projects"><img src="assets/ptr.png" width="40" height="40" align="center" alt="Path to Recovery"></a>  <a href="https://markbarbuto.com/#projects"><b>Path to Recovery</b></a></p>
@@ -25,7 +25,7 @@
 <h3><img src="metrics.svg" width="50%" align="left" alt="GitHub metrics">✨ Other stuff</h3>
 <p>Some things I do for fun</p>
 <p><a href="https://markbarbuto.com/#fun"><img src="assets/905gunners-spin.gif" width="40" height="40" align="center" alt="905Gunners"></a>  <a href="https://markbarbuto.com/#fun"><b>905Gunners</b></a> (charity tournaments)</p>
-<p><a href="https://markbarbuto.com/#fun"><img src="https://media.giphy.com/media/To3PiWqMYemR2/giphy.gif" width="40" height="40" align="center" alt="Travel"></a>  <a href="https://markbarbuto.com/#fun"><b>Travel</b></a></p>
+<p><a href="https://markbarbuto.com/#fun"><img src="assets/travel.gif" width="40" height="40" align="center" alt="Travel"></a>  <a href="https://markbarbuto.com/#fun"><b>Travel</b></a></p>
 
 <br clear="left">
 
@@ -38,5 +38,5 @@
 </p>
 
 <p align="center">
-  <img src="https://media1.tenor.com/m/F9rtBwqQlB8AAAAC/encouragement-quotes-encouraging-quotes.gif" width="360" alt="Encouragement">
+  <img src="assets/encouragement.gif" width="360" alt="Encouragement">
 </p>
