@@ -1,4 +1,4 @@
-<img src="assets/hello.gif" width="180" height="180" align="left" hspace="20" alt="Hello">
+<img align="left" src="assets/hello.gif" width="180" height="180" alt="Hello">
 <h3>Mark Barbuto</h3>
 <p>I'm a full-stack developer in Toronto making an impact by building web and mobile apps. Here's what I work with most:</p>
 <p>
